@@ -1,0 +1,52 @@
+#simplyLogo{
+    width: 100px;
+}
+
+#credits{
+    font-weight: 200;
+    color: grey;
+    padding-left: 150px;
+    margin: 0px;
+    font-style: italic;
+}
+
+#intestazione{
+    margin: 0 auto;
+}
+
+#description {
+    background-color: bisque;
+    
+}
+
+.fotoContainer {
+    padding-left: 650px;
+    padding-right: 650px;
+}
+
+#contenuto {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 500px;
+    padding-right: 550px;
+}
+
+.lista {
+    padding-left: 20px;
+    font-weight: 300;
+}
+
+.description {
+    padding-left: 550px;
+    padding-right: 300px;
+    color: #0a8383;
+}
+
+.feature {
+    margin: 0px;
+}
+
+body {
+    width: 100%;
+}
+
